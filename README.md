@@ -1,1 +1,1 @@
-This is a repo that contains flighs databases linked to an Excel file.
+This repo contains flights databases linked to Flight Planner software.
