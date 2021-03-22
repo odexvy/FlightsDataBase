@@ -4327,7 +4327,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 4333,Smithkline Beacham Clinical Labs,\N,,SBQ,SKIBBLE,United States,N
 4334,Saber Aviation,\N,,SBR,FREIGHTER,United States,N
 4335,Seaborne Airlines,\N,BB,SBS,SEABORNE,United States,Y
-4336,Saint Barth Commuter,\N,,SBU,BLACK FIN,France,N
+4336,Saint Barth Commuter,\N,PV,SBU,BLACK FIN,France,Y
 4337,Star Air,\N,,URJ,STARAV,Pakistan,N
 4338,Scibe Airlift,\N,,SBZ,SCIBE AIRLIFT,Democratic Republic of the Congo,N
 4339,Spanish Air Force,\N,,AME,AIRMIL,Spain,N
