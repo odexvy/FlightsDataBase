@@ -2340,7 +2340,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 2339,Federal Armed Forces,\N,,DCN,DIPLOMATIC CLEARANCE,Germany,N
 2340,Federal Armored Service,\N,,FRM,FEDARM,United States,N
 2341,Federal Aviation Administration,\N,,NHK,NIGHTHAWK,United States,N
-2342,Federal Express,\N,FX,FDX,FEDEX,United States,N
+2342,FedEx Express,\N,FX,FDX,FEDEX,United States,Y
 2343,Feniks Airline,\N,,FNK,AURIKA,Kazakhstan,N
 2344,Feria Aviacion,\N,,FER,FERIA,Spain,N
 2345,Fika Salaama Airlines,\N,N8,HGK,SALAAMA,Uganda,N
