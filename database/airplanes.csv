@@ -35,3 +35,4 @@ Airplane ID,Model,Manufacturer,Cruising Speed,Max Altitude,Autonomy,Action Range
 34,CRJ700ER,Bombardier,473,43000,3,1378,null,null
 35,Dash 8 Q400,Bombardier,220,25000,3,925,null,null
 36,ATR72-600,ATR,220,25000,4,758,null,null
+37,737 Max,Boeing,null,null,null,null,null,null
