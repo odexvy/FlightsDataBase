@@ -6168,4 +6168,6 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 21322,Southern Airways Express/Mokulele Airline,,9X,FDY,FRIENDLY,United States,Y
 21323,Watermakers Air,,,WMA,WATERMAKERS,United States,Y
 21324,Ravn Alaska,,7H,RVF,RAVEN FLIGHT,United States,Y
-21325,easyJet Europe,EasyJet Airline,EC,EJU,ALPINE,Austria,Y
+21325,EasyJet Europe,EasyJet Airline,EC,EJU,ALPINE,Austria,Y
+21326,Air France Hop,Air France Hop,A5,HOP,AIRFRANS,France,Y
+
