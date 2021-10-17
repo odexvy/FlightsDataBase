@@ -150,7 +150,7 @@ Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 148,Air Nigeria,\N,,NGP,REGAL EAGLE,Nigeria,N
 149,Air Cargo Carriers,\N,2Q,SNC,NIGHT CARGO,United States,Y
 150,Air Samarkand,\N,,SND,ARSAM,Uzbekistan,N
-151,Air Senegal International,\N,V7,SNG,AIR SENEGAL,Senegal,N
+151,Air Senegal,\N,HC,SZN,AIR SENEGAL,Senegal,Y
 152,Air Sandy,\N,,SNY,AIR SANDY,Canada,N
 153,Air Namibia,\N,SW,NMB,NAMIBIA,Namibia,Y
 154,Air Intersalonika,\N,,NSK,INTERSALONIKA,Greece,N
